@@ -1,0 +1,17 @@
+agno==1.8.0
+openai
+chainlit
+python-dotenv
+duckduckgo-search
+pypdf
+lancedb
+streamlit
+pandas
+tantivy
+yfinance
+groq
+google-genai
+ddgs
+asyncpg
+sqlalchemy
+sentence_transformers
