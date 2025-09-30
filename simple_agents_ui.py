@@ -1,8 +1,6 @@
 import chainlit as cl
 from agno.agent import Agent
-from agno.models.openai import OpenAIChat
 from agno.models.groq import Groq
-from agno.models.google import Gemini
 from agno.tools.duckduckgo import DuckDuckGoTools
 
 import os
@@ -36,3 +34,4 @@ async def handle_message(message: cl.Message):
     except Exception as e:
         await cl.Message(content=f"❌ Error: {e}").send()
     
+
