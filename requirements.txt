@@ -1,0 +1,12 @@
+agno==1.8.0
+chainlit
+ddgs
+groq
+python-dotenv
+yfinance
+google-genai
+sentence_transformers
+sqlalchemy
+lancedb
+openai
+pypdf

@@ -1,0 +1,31 @@
+.venv/
+venv/
+__pycache__/
+dist/
+.env
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Build / temp
+dist/
+tmp/
+
+# Vector DB / LanceDB
+*.lance
+*.txn
+*.manifest
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Chainlit runtime
+.chainlit/.chainlit.db
