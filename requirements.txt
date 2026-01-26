@@ -10,3 +10,4 @@ sqlalchemy
 lancedb
 openai
 pypdf
+faster-whisper
